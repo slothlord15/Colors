@@ -1,0 +1,4 @@
+
+for color in colors: colors = ["Red", "Green", "Blue", "Yellow"]
+
+    print(color)
